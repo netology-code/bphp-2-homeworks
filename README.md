@@ -1,1 +1,4 @@
-# bphp-2-homeworks
+# Домашние задания по курсу «PHP»
+## Basic PHP
+1.1. [Знакомство с PHP](001-intro)
+
