@@ -55,7 +55,6 @@ $variable = 3.14;
 //  int, string, null или other
 
 echo "type is $type"
-?>
 ```
 
 ## Дополнительно, по желанию
@@ -74,7 +73,6 @@ switch (true) {
 }
 
 echo "type is $type"
-?>
 
 ```
 
