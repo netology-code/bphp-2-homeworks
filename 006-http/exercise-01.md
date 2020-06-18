@@ -6,18 +6,19 @@
 Поэтому уделите немного времени, чтобы ознакомиться с этими разделами документации: 
 
 * [Список кодов состояния HTTP](https://ru.wikipedia.org/wiki/Список_кодов_состояния_HTTP) 
-
 Возвращайтесь к этой странице, когда надо будет вспомнить что значит тот или иной код. 
+
 * [Заголовки HTTP](https://ru.wikipedia.org/wiki/Заголовки_HTTP)
-
 Просмотрите этот список, при помощи заголовков можно существенно повлиять на поведения клиентского браузера.
+
 * [Функция header() с примерами](https://www.php.net/manual/ru/function.header.php)
-
 На этой странице много примеров использования заголовков в php, эти знания пригодятся в дальнейшей работе. 
-* [Функция http_response_code()](https://www.php.net/manual/ru/function.http-response-code.php)
 
+* [Функция http_response_code()](https://www.php.net/manual/ru/function.http-response-code.php)
 Как отправить клиенту определенный код ответа. 
-* [Функция http_response_code()](https://www.php.net/manual/ru/function.setcookie.php)
+
+* [Функция setcoockie()](https://www.php.net/manual/ru/function.setcookie.php) 
+Работа с cookie.
 
 
 В задании не надо ничего отправлять на проверку, но ознакомление с этой документацией поможет в дальнейшей работе с php.
