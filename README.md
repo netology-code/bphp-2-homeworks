@@ -4,6 +4,8 @@
 
 Важно: [Инструкция по установке и активации PhpStorm](phpstorm-installation.md)
 
+Важно: [Инструкция по установке php в windows](php-windows.md)
+
 ## Basic PHP
 
 1.1. [Знакомство с PHP](001-intro)
