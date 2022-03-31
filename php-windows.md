@@ -5,7 +5,7 @@
 1. Найти в получившемся каталоге файл `php.ini-development` и переименовать его в `php.ini`.
 1. Прописать путь (скорее всего это будет `c:\php\bin\php`) до исполняемого файла php в phpstorm.
   ![](pic/phpstorm-php.png)
-1. Прописать путь до PHP в переменные среды.
+1. Прописать путь до PHP в переменные среды. Подробнее -  https://www.php.net/manual/ru/faq.installation.php#faq.installation.addtopath 
 
 Так же можно воспользоваться готовым "комбайном" [XAMPP](https://www.apachefriends.org/ru/download.html). 
 
