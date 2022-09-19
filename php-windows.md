@@ -7,11 +7,9 @@
   ![](pic/phpstorm-php.png)
 1. Прописать путь до PHP в переменные среды. [Подробнее](https://www.php.net/manual/ru/faq.installation.php#faq.installation.addtopath). 
 
-- [Как это сделать в Windows 10](https://www.youtube.com/watch?v=mqIgUbpSz_A). 
+[Как это сделать в Windows 10](https://www.youtube.com/watch?v=mqIgUbpSz_A). 
 
 Также можно воспользоваться готовым комбайном [XAMPP](https://www.apachefriends.org/ru/download.html). 
 
 # Включение mbstring для Windows
 Открыть файл php.ini в текстовом редакторе и заменить строку `;extension=mbstring` строкой `extension=php_mbstring.dll`.
-   
-   
