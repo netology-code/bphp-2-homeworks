@@ -1,12 +1,9 @@
 # Домашние задания по курсу «PHP»
 
-Важно: [Инструкция по выполнению домашних заданий](https://github.com/netology-code/bphp-2-homeworks/blob/master/homework.md)
+**Важно:**
+1. [Инструкция по выполнению домашних заданий](https://github.com/netology-code/bphp-2-homeworks/blob/master/homework.md)
+1. [Инструкция по установке php в windows](php-windows.md)
 
-Важно: [Инструкция по установке и активации PhpStorm](phpstorm-installation.md)
-
-Важно: [Инструкция по установке php в windows](php-windows.md)
-
-## Basic PHP
 
 1.1. [Знакомство с PHP](001-intro)
 
