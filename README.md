@@ -1,10 +1,5 @@
 # Домашние задания по курсу «PHP»
 
-**Важно:**
-1. [Инструкция по выполнению домашних заданий](https://github.com/netology-code/bphp-2-homeworks/blob/master/homework.md)
-1. [Инструкция по установке php в windows](php-windows.md)
-
-
 1.1. [Знакомство с PHP](001-intro)
 
 1.2. [Работа с консолью PHP](002-console)
@@ -20,3 +15,8 @@
 3.2. [Файлы, html-формы](007-forms)
 
 3.3. [Развертывание приложения на хостинге](008-heroku)
+
+
+## Важно:
+1. [Инструкция по выполнению домашних заданий](https://github.com/netology-code/bphp-2-homeworks/blob/master/homework.md)
+1. [Инструкция по установке php в windows](php-windows.md)
