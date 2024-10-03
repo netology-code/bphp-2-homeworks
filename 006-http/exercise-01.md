@@ -13,7 +13,7 @@
 На этой странице много примеров использования заголовков в PHP, эти знания пригодятся в дальнейшей работе;
 * [функция http_response_code()](https://www.php.net/manual/ru/function.http-response-code.php).
 Как отправить клиенту определённый код ответа;
-* [функция setcoockie()](https://www.php.net/manual/ru/function.setcookie.php).
+* [функция setcookie()](https://www.php.net/manual/ru/function.setcookie.php).
 Работа с cookie.
 
 В задании не надо ничего отправлять на проверку, но ознакомление с этой документацией поможет в дальнейшей работе с PHP.
