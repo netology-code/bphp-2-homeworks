@@ -76,4 +76,4 @@ echo "type is $type"
 
 ```
 
-**Обратите внимание на** [**рекомендации по сдаче домашнего задания**](../homework.md).
+**Обратите внимание на** [**рекомендации по сдаче домашнего задания**]([../homework.md](https://github.com/netology-code/bphp-2-homeworks/blob/master/homework-GitHub.md)).
